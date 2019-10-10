@@ -2,7 +2,7 @@
 
 ---
 
-### Projects and Thesis
+### Projects
 
 [Natural Language Processing](/NLP)
 <p align="justify">
