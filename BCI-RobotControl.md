@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    <img width="350" height="250" src="FP1.jpg">
+    <img width="350" height="250" src="images/FP1.jpg">
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <img width="350" height="350" src="UsedEEG.jpg">
+    <img width="350" height="350" src="images/UsedEEG.jpg">
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@
 ## Its Application
 
 <p align="center">
-    <img width="300" height="180" src="218406.jpg">
+    <img width="300" height="180" src="images/218406.jpg">
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-    <img height="300" width="200" src="218405.jpg">
+    <img height="300" width="200" src="images/218405.jpg">
 </p>
 
 <p align="justify">
