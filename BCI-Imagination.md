@@ -7,8 +7,8 @@
 
 <img src="images/BCI-Imagination.jpg?raw=true">
 
-<p align="justify">
-    A paper for this experiment is available: https://link.springer.com/chapter/10.1007/978-981-13-9917-6_44
-</p>
+
+A paper for this experiment is available [here](https://link.springer.com/chapter/10.1007/978-981-13-9917-6_44)
+
 
 
