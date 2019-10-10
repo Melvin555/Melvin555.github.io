@@ -10,5 +10,6 @@
 
 A paper for this experiment is available [here](https://link.springer.com/chapter/10.1007/978-981-13-9917-6_44)
 
+Link for the sample code and brief description is available [here](https://github.com/Melvin555/Brain-ComputerInterfaceProject)
 
 
