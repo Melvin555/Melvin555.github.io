@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects and Thesis
 
 [Natural Language Processing](/NLP)
 <p align="justify">
@@ -22,7 +22,7 @@
 
 ---
 
-### Category Name 2
+### Additional Links
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
