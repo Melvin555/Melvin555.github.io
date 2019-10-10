@@ -37,8 +37,8 @@
 
 ## Link to the source code
 <p align="justify">
-  The link to the source code is available here:
-  https://github.com/Melvin555/NLP
+  The link to the source code is available [here]:
+  <https://github.com/Melvin555/NLP>
 </p>
 
 
