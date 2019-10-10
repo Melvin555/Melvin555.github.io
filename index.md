@@ -24,11 +24,18 @@
     For more information, click on "Brain Computer Interface-Imagination Recognition" link above
 </p>
 
-
-
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BCI-Robot Control](/BCI-Robot Control)
+<p align="justify">
+    Technology is very essential in assisting human to live these days. One of such technologies is biomedical engineering technology, with specific area focusing on Electroencephalogram (EEG). The use of EEG is not only limited for detecting neurons activity inside human brain, but it can also be used for control purpose. The use of EEG in control system is called Brain Computer Interface (BCI). The ultimate goal of BCI in general is to assist people with disabilities to have activities as those of normal people do. In this project, the purpose of the resulted prototype is to help people with disabilities to transport light items by means of attention level and eye blinking level. Both are utilized to
+    control the movement of a land mobile robot.
+</p>
+
+<img src="218405.jpg?raw=true">
+
+<p align="center">
+    For more information, click on "BCI-Robot Control" link above
+</p>
 
 ---
 
