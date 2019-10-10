@@ -58,6 +58,6 @@
     controled. The robot movement will be based on the user condition in concentrating and eye blinking. 
 </p>
 
-Link for the sample code and brief description is available [here](https://github.com/Melvin555/Brain-ComputerInterfaceProject)
+Link for the sample code and brief description is available [here](https://github.com/Melvin555/BCI-RobotControl)
 
 
