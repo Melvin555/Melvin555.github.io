@@ -31,7 +31,7 @@
     control the movement of a land mobile robot.
 </p>
 
-<img src="images/218405.jpg?raw=true" height="300" width="200">
+<img src="images/218405.jpg?raw=true" height="300" width="200" align="center">
 
 <p align="center">
     For more information, click on "BCI-Robot Control" link above
