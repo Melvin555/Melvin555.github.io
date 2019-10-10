@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Brain Computer Interface Imagine Digit Recognition
 
 
 <p align="justify">

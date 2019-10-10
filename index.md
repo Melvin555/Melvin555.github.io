@@ -25,33 +25,14 @@
 </p>
 
 ---
-[BCI-Robot Control](/BCI-Robot Control)
+[BCI-Robot Control](/BCI-RobotControl)
 <p align="justify">
     Technology is very essential in assisting human to live these days. One of such technologies is biomedical engineering technology, with specific area focusing on Electroencephalogram (EEG). The use of EEG is not only limited for detecting neurons activity inside human brain, but it can also be used for control purpose. The use of EEG in control system is called Brain Computer Interface (BCI). The ultimate goal of BCI in general is to assist people with disabilities to have activities as those of normal people do. In this project, the purpose of the resulted prototype is to help people with disabilities to transport light items by means of attention level and eye blinking level. Both are utilized to
     control the movement of a land mobile robot.
 </p>
 
-<img src="images/218405.jpg?raw=true">
+<img src="images/218405.jpg?raw=true" height="300" width="200">
 
 <p align="center">
     For more information, click on "BCI-Robot Control" link above
 </p>
-
----
-
-### Additional Links
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
