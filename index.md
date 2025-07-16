@@ -7,7 +7,7 @@
 
 ---
 
-[AI Sales & Marketing Dashboard](https://github.com/Melvin555/ai-dashboard-sales-marketing)
+[AI Sales & Marketing Dashboard](https://github.com/Melvin555/melvin-ai-dashboard-sales-marketing)
 <p align="justify">
     An interactive dashboard built using Dash, Plotly, and Pandas to visualize monthly sales trends, category-based distribution, top customers, and more. Enables strategic insights into product performance and sales seasonality.
 </p>
@@ -20,7 +20,7 @@
 
 ---
 
-[Automated Resume Screener](https://github.com/Melvin555/automated-resume-screener)
+[Automated Resume Screener](https://github.com/Melvin555/melvin-automated-resume-screener)
 <p align="justify">
     A smart NLP-powered web app for resume classification. Built with Streamlit, it supports text or file uploads (PDF/DOCX), uses TF-IDF + Logistic Regression, and provides real-time predictions with confidence scores.
 </p>
