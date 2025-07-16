@@ -35,7 +35,7 @@
 
 [Amaris Chatbot App](https://github.com/Melvin555/melvin-proto-chatbotapp)
 <p align="justify">
-    A corporate chatbot demo for Nestlé built using LangChain, Azure OpenAI, and FAISS. Supports multi-turn RAG queries via Streamlit interface. Optimized to retrieve real internal Q&A and answer based on context.
+    A corporate chatbot demo for Amaris built using LangChain, Azure OpenAI, and FAISS. All databse information are available in main page of Amaris and open to public. Supports multi-turn RAG queries via Streamlit interface. Optimized to retrieve real internal Q&A and answer based on context.
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Melvin555/melvin-proto-chatbotapp/main/figure/webchat_ui.png" width="600">
