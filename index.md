@@ -12,7 +12,7 @@
     An interactive dashboard built using Dash, Plotly, and Pandas to visualize monthly sales trends, category-based distribution, top customers, and more. Enables strategic insights into product performance and sales seasonality.
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Melvin555/ai-dashboard-sales-marketing/main/figure/dashboard_figure.png" width="600">
+    <img src="images/dashboard_figure.png?raw=true" width="600">
 </p>
 <p align="center">
     For more information, click on "AI Sales & Marketing Dashboard" link above
@@ -25,7 +25,7 @@
     A smart NLP-powered web app for resume classification. Built with Streamlit, it supports text or file uploads (PDF/DOCX), uses TF-IDF + Logistic Regression, and provides real-time predictions with confidence scores.
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Melvin555/automated-resume-screener/main/figure/prediction_ui.png" width="600">
+    <img src="image/prediction_ui.png?raw=true" width="600">
 </p>
 <p align="center">
     For more information, click on "Automated Resume Screener" link above
