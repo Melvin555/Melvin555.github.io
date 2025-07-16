@@ -25,7 +25,7 @@
     A smart NLP-powered web app for resume classification. Built with Streamlit, it supports text or file uploads (PDF/DOCX), uses TF-IDF + Logistic Regression, and provides real-time predictions with confidence scores.
 </p>
 <p align="center">
-    <img src="image/prediction_ui.png?raw=true" width="600">
+    <img src="images/prediction_ui.png?raw=true" width="600">
 </p>
 <p align="center">
     For more information, click on "Automated Resume Screener" link above
@@ -42,16 +42,6 @@
 </p>
 <p align="center">
     For more information, click on "Amaris Chatbot App" link above
-</p>
-
----
-
-[Natural Language Processing](/NLP)
-<p align="justify">
-    The project revolves around data collection using a webcrawler package in Python. The collected data—a corpus of 10,000 sport news sentences—is processed using Porter's stemming algorithm to create a dictionary and build a bigram model. The model achieves a classification accuracy of 90%.
-</p>
-<p align="center">
-    For more information, click on "Natural Language Processing" link above
 </p>
 
 ---
