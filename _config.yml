@@ -1,16 +1,21 @@
 title: Melvin Harsono # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+description: >
+  <br>
+  I’m a Machine Learning & AI Consultant with deep expertise in building end-to-end intelligent systems, including chatbot applications powered by Large Language Models (LLMs), data pipelines, and enterprise-ready dashboards.
+
+  <br><br>
+  My key skills include:
+  - 🔹 Building and deploying production-grade chatbot apps using LangChain, FAISS, and Azure OpenAI, with secure multi-turn RAG architecture deployed via Azure Web App
+  - 🔹 Fine-tuning and deploying LLMs for customized enterprise use cases
+  - 🔹 Training traditional ML and deep learning models using scikit-learn, PyTorch, and TensorFlow
+  - 🔹 Developing data dashboards and automation pipelines using Dash, Streamlit, and Pandas
+  - 🔹 Full-stack project delivery: from data collection, preprocessing, and model training to frontend UX and cloud deployment
 
   <br>
-  
-  My major is Computer Science with the main skills in Data Science and Analysis using python (for machine learning), tableau, and R programming.
-  
-  <br>
-  
-  <br>
   <a href="https://www.linkedin.com/in/melvin-harsono/">
-  View My LinkedIn Profile</a> 
+  View My LinkedIn Profile</a>
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
