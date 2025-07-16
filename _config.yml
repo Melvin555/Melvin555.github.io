@@ -2,20 +2,20 @@ title: Melvin Harsono # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: >
   <br>
-  I’m a Machine Learning & AI Consultant with deep expertise in building end-to-end intelligent systems, including chatbot applications powered by Large Language Models (LLMs), data pipelines, and enterprise-ready dashboards.
+  I'm a professional Software Engineer and AI Consultant specializing in building AI-powered applications, intelligent automation systems, and enterprise-ready web solutions.
 
   <br><br>
-  My key skills include:
-  - 🔹 Building and deploying production-grade chatbot apps using LangChain, FAISS, and Azure OpenAI, with secure multi-turn RAG architecture deployed via Azure Web App
-  - 🔹 Fine-tuning and deploying LLMs for customized enterprise use cases
-  - 🔹 Training traditional ML and deep learning models using scikit-learn, PyTorch, and TensorFlow
-  - 🔹 Developing data dashboards and automation pipelines using Dash, Streamlit, and Pandas
-  - 🔹 Full-stack project delivery: from data collection, preprocessing, and model training to frontend UX and cloud deployment
-
+  🤖 LLM-Powered Systems: Designed and deployed end-to-end RAG-based chatbots using LangChain, FAISS, and Azure OpenAI.
+  ☁️ Cloud DevOps: Built and deployed apps to Azure Web Apps using Docker, CI/CD, and secure API handling.
+  📚 Model Development: Experienced in training and fine-tuning ML/DL models using scikit-learn, PyTorch, and TensorFlow.
+  📊 Interactive Dashboards: Built business dashboards using Dash, Plotly, and Streamlit for sales and data analytics.
+  🛠 Full-Stack ML Pipelines: From data ingestion to frontend delivery with clean and scalable code.
   <br>
   <a href="https://www.linkedin.com/in/melvin-harsono/">
   View My LinkedIn Profile</a>
 
   
 theme: jekyll-theme-minimal
+show_downloads: false
+footer: false
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
