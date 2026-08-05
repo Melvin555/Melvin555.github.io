@@ -1,29 +1,19 @@
-title: Melvin Harsono # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+title: Melvin Harsono
+logo: "/images/logo.jpg?raw=true"
 description: >
   <br>
-  I'm a professional Software Engineer and AI Consultant with a focus on AI-powered systems, LLMs, and enterprise automation.
+  Software Engineer and AI Consultant building practical AI agents, RAG apps, ML systems, dashboards, and automation workflows.
 
   <br><br>
-  🤖 LLM-Powered Chatbots: End-to-end solutions with LangChain, FAISS, Azure OpenAI
+  Focus: LLM apps, agentic workflows, enterprise automation, applied ML, cloud-ready product demos.
 
-
-  ☁️ Azure Cloud DevOps: Dockerized deployment, CI/CD pipelines, secure API handling
-
-
-  🧠 ML/DL Expertise: Logistic Regression, Scikit-learn, PyTorch, TensorFlow, model fine-tuning
-
-
-  📊 Dashboards: Dash, Plotly, Streamlit for sales and analytics
-
-
-  🛠 End-to-End Pipelines: From data ingestion to web UI and cloud deployment
+  <br><br>
+  <a href="https://github.com/Melvin555">View GitHub</a>
   <br>
   <a href="https://www.linkedin.com/in/melvin-harsono/">
-  View My LinkedIn Profile</a>
+  View LinkedIn</a>
 
   
 theme: jekyll-theme-minimal
 show_downloads: false
 footer: false
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
