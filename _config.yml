@@ -12,8 +12,12 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/melvin-harsono/">
   View LinkedIn</a>
-
   
-theme: jekyll-theme-minimal
 show_downloads: false
 footer: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,3 +1,8 @@
+---
+layout: default
+title: AI Portfolio
+---
+
 <div class="portfolio-shell">
   <section class="hero-panel" aria-labelledby="hero-title">
     <div class="hero-copy">
@@ -161,7 +166,7 @@
     </article>
   </div>
 
-  <section class="section-heading compact-heading">
+  <section class="section-heading compact-heading" id="ai-lab">
     <p class="kicker">AI Lab Builds</p>
     <h2>Additional systems I have been developing locally.</h2>
   </section>

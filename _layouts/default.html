@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="Melvin Harsono portfolio: AI agents, RAG apps, automation systems, dashboards, and applied machine learning projects.">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Melvin Harsono home">
+        <img src="{{ '/images/logo.jpg' | relative_url }}" alt="Melvin Harsono">
+        <span>
+          <strong>Melvin Harsono</strong>
+          <em>Software Engineer and AI Consultant</em>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}#featured-ai-projects">Projects</a>
+        <a href="{{ '/' | relative_url }}#ai-lab">AI Lab</a>
+        <a href="https://github.com/Melvin555">GitHub</a>
+        <a href="https://www.linkedin.com/in/melvin-harsono/">LinkedIn</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      {{ content }}
+    </main>
+  </body>
+</html>
