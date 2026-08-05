@@ -76,19 +76,19 @@ title: AI Portfolio
     </article>
 
     <article class="project-card">
-      <a class="media-link" href="https://github.com/Melvin555/Brain-ComputerInterfaceProject" aria-label="Open BCI Imagination Recognition on GitHub">
-        <img src="images/BCI-Imagination.jpg?raw=true" alt="Brain computer interface imagination recognition project">
+      <a class="media-link" href="https://github.com/Melvin555/violetops" aria-label="Open VioletOps MCP Platform on GitHub">
+        <img src="https://raw.githubusercontent.com/Melvin555/violetops/main/public/readme/violetops-jira-sprint.png" alt="VioletOps command deck and Jira workflow interface">
       </a>
       <div class="card-body">
-        <p class="project-type">Brain-computer interface</p>
-        <h3><a href="https://github.com/Melvin555/Brain-ComputerInterfaceProject">BCI Imagination Recognition</a></h3>
+        <p class="project-type">Agentic project management</p>
+        <h3><a href="https://github.com/Melvin555/violetops">VioletOps MCP Platform</a></h3>
         <p>
-          EEG digit-imagination recognition using classical ML and deep learning, including MLP, LDA, SVM, and CNN topographic-map modeling.
+          Next.js command deck that connects AI chat, Jira-style tickets, connector retrieval, Miro planning context, Azure OpenAI, and MCP tools.
         </p>
         <div class="tag-row">
-          <span>EEG</span>
-          <span>CNN</span>
-          <span>Signal ML</span>
+          <span>Next.js</span>
+          <span>MCP</span>
+          <span>Azure OpenAI</span>
         </div>
       </div>
     </article>
@@ -196,6 +196,13 @@ title: AI Portfolio
   </section>
 
   <div class="foundation-grid">
+    <article class="mini-card">
+      <img src="images/BCI-Imagination.jpg?raw=true" alt="Brain computer interface imagination recognition project">
+      <div>
+        <h3><a href="https://github.com/Melvin555/Brain-ComputerInterfaceProject">BCI Imagination Recognition</a></h3>
+        <p>EEG digit-imagination recognition using MLP, LDA, SVM, and CNN topographic maps, reaching up to 99.68% accuracy.</p>
+      </div>
+    </article>
     <article class="mini-card">
       <img src="images/218405.jpg?raw=true" alt="Brain computer interface robot control project">
       <div>
