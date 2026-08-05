@@ -59,7 +59,7 @@ title: AI Portfolio
 
     <article class="project-card">
       <a class="media-link" href="https://github.com/Melvin555/Research-Paper-Intelligence-Hub" aria-label="Open Research Paper Intelligence Hub on GitHub">
-        <img src="https://opengraph.githubassets.com/melvin-portfolio/Melvin555/Research-Paper-Intelligence-Hub" alt="Research Paper Intelligence Hub repository preview">
+        <img src="https://raw.githubusercontent.com/Melvin555/Research-Paper-Intelligence-Hub/master/docs/assets/library-detail.jpg" alt="Research Paper Intelligence Hub library and paper detail interface">
       </a>
       <div class="card-body">
         <p class="project-type">Research intelligence</p>
@@ -76,26 +76,26 @@ title: AI Portfolio
     </article>
 
     <article class="project-card">
-      <a class="media-link" href="https://github.com/Melvin555/melvin-sqlqueryai" aria-label="Open SQL Query AI on GitHub">
-        <img src="https://opengraph.githubassets.com/melvin-portfolio/Melvin555/melvin-sqlqueryai" alt="SQL Query AI repository preview">
+      <a class="media-link" href="https://github.com/Melvin555/Brain-ComputerInterfaceProject" aria-label="Open BCI Imagination Recognition on GitHub">
+        <img src="images/BCI-Imagination.jpg?raw=true" alt="Brain computer interface imagination recognition project">
       </a>
       <div class="card-body">
-        <p class="project-type">Natural language data access</p>
-        <h3><a href="https://github.com/Melvin555/melvin-sqlqueryai">SQL Query AI</a></h3>
+        <p class="project-type">Brain-computer interface</p>
+        <h3><a href="https://github.com/Melvin555/Brain-ComputerInterfaceProject">BCI Imagination Recognition</a></h3>
         <p>
-          Django NLP app for querying SQLite data with natural language, Hugging Face models, and RAG-style retrieval through FAISS or Chroma indexing.
+          EEG digit-imagination recognition using classical ML and deep learning, including MLP, LDA, SVM, and CNN topographic-map modeling.
         </p>
         <div class="tag-row">
-          <span>Django</span>
-          <span>Hugging Face</span>
-          <span>FAISS</span>
+          <span>EEG</span>
+          <span>CNN</span>
+          <span>Signal ML</span>
         </div>
       </div>
     </article>
 
     <article class="project-card">
       <a class="media-link" href="https://github.com/Melvin555/coinsearch" aria-label="Open Coin Search Azure RAG app on GitHub">
-        <img src="https://opengraph.githubassets.com/melvin-portfolio/Melvin555/coinsearch" alt="Coin Search repository preview">
+        <img src="https://raw.githubusercontent.com/Melvin555/coinsearch/main/docs/images/coinsearch-ui-overview.svg" alt="Coin Search RAG upload and chat interface">
       </a>
       <div class="card-body">
         <p class="project-type">Azure RAG and OCR</p>
@@ -196,13 +196,6 @@ title: AI Portfolio
   </section>
 
   <div class="foundation-grid">
-    <article class="mini-card">
-      <img src="images/BCI-Imagination.jpg?raw=true" alt="Brain computer interface imagination recognition project">
-      <div>
-        <h3><a href="/BCI-Imagination">BCI Imagination Recognition</a></h3>
-        <p>EEG digit-imagination recognition using MLP, LDA, SVM, and CNN topographic maps, reaching up to 99.68% accuracy.</p>
-      </div>
-    </article>
     <article class="mini-card">
       <img src="images/218405.jpg?raw=true" alt="Brain computer interface robot control project">
       <div>
